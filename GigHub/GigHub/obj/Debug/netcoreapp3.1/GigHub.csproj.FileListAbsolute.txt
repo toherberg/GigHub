@@ -90,3 +90,4 @@ D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\ob
 D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\obj\Debug\netcoreapp3.1\GigHub.dll
 D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\obj\Debug\netcoreapp3.1\GigHub.pdb
 D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\obj\Debug\netcoreapp3.1\GigHub.genruntimeconfig.cache
+D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\obj\Debug\netcoreapp3.1\Razor\Views\Gigs\Create.cshtml.g.cs
