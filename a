@@ -1,0 +1,47 @@
+[33mcommit 5638dbc1f2a6d25b037e786caf93b676b10f1642[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: tohermann <tth4ik@gmail.com>
+Date:   Sun Aug 22 08:32:25 2021 +0300
+
+    replaced datetime getter
+
+[33mcommit 967c024cd64afc0e763dd996d4ba8fbcb601a881[m
+Author: tohermann <tth4ik@gmail.com>
+Date:   Sun Aug 22 08:20:30 2021 +0300
+
+    implemented create gig form
+
+[33mcommit cf5b3083d4a9f2fc76f07eea54c4b084d4d778cf[m
+Author: tohermann <tth4ik@gmail.com>
+Date:   Sun Aug 15 12:40:11 2021 +0300
+
+    added model template in Create Gig View
+
+[33mcommit 9666067a163cd4f9f970885715977bce9d84dd35[m
+Author: tohermann <tth4ik@gmail.com>
+Date:   Sun Aug 15 11:40:28 2021 +0300
+
+    added populate genres table to db
+
+[33mcommit 5cc8c550194ed9f5e917a148e7197a94c554ae97[m
+Author: tohermann <tth4ik@gmail.com>
+Date:   Sun Aug 15 11:21:38 2021 +0300
+
+    added gig and genre models, updated data migration
+
+[33mcommit 19ef3fd6708a2d7582c73e0af221a78f745793bf[m
+Author: tohermann <tth4ik@gmail.com>
+Date:   Sun Aug 15 10:27:29 2021 +0300
+
+    user identity migrations for db added
+
+[33mcommit f0390cd26c1becb7f15c44c0f8512d29542b7fe2[m
+Author: tohermann <tth4ik@gmail.com>
+Date:   Sun Aug 15 08:36:32 2021 +0300
+
+    initial commit with mvc template
+
+[33mcommit c295b87f401c8544bd84f3c4b6735af6481594c9[m
+Author: Olexandr Tatokhin <tth4ik@gmail.com>
+Date:   Sun Aug 15 03:11:39 2021 +0300
+
+    Create .gitignore
