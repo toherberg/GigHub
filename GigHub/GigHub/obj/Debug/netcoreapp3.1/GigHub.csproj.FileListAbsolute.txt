@@ -60,7 +60,6 @@ D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\bi
 D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\obj\Debug\netcoreapp3.1\GigHub.csprojAssemblyReference.cache
 D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\obj\Debug\netcoreapp3.1\GigHub.AssemblyInfoInputs.cache
 D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\obj\Debug\netcoreapp3.1\GigHub.AssemblyInfo.cs
 D:\ПАПКА ДЛЯ САШІ\RoadToOfferFolder\Projects\GigHub\GigHub\GigHub\obj\Debug\netcoreapp3.1\GigHub.csproj.CoreCompileInputs.cache

@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Identity;
-using System;
+﻿using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace GigHub.Models
@@ -9,8 +8,9 @@ namespace GigHub.Models
 
         public int Id { get; set; }
 
+
         [Required]
-        public IdentityUser Artist { get; set; }
+        public string ArtistId { get; set; }
 
         public DateTime DateTime { get; set; }
 
@@ -18,11 +18,9 @@ namespace GigHub.Models
         [StringLength(255)]
         public string Venue { get; set; }
 
+
         [Required]
-        public Genre Genre { get; set; }
-
-
-
+        public byte GenreId { get; set; }
 
     }
 }
