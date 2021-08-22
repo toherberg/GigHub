@@ -34,11 +34,10 @@ namespace GigHub.Controllers
         [HttpPost]
         public IActionResult Create(GigFormViewModel viewModel)
         {
-            var artistId = this.User.FindFirstValue(ClaimTypes.NameIdentifier);
             var gig = new Gig
             {
-                ArtistId = artistId,
-                DateTime = DateTime.Parse(string.Format("{0} {1}", viewModel.Date, viewModel.Time)),
+                ArtistId = this.User.FindFirstValue(ClaimTypes.NameIdentifier),
+                DateTime = viewModel.DateTime,
                 GenreId = viewModel.Genre,
                 Venue = viewModel.Venue
 
