@@ -29,6 +29,6 @@
         @Html.DropDownListFor(m => m.Genre, new SelectList(Model.Genres, "Id", "Name"), new { @class = "form-control" })
         <span asp-validation-for="Genre" class="text-danger"></span>
     </div>
-    <button type="submit" class=" btn btn-success">Save</button>
+    <button type="submit" class=" btn btn btn-primary">Save</button>
 }
 
